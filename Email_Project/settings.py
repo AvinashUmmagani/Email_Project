@@ -124,6 +124,6 @@ STATICFILES_DIRS=[
 
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_HOST_USER='userName@gmail.com'
-EMAIL_HOST_PASSWORD='  '
-EMAIL_PORT=' '
+EMAIL_HOST_PASSWORD='yourPassword' #make sure you allow external apps in your google account
+EMAIL_PORT=' ' # optional
 EMAIL_USE_TLS=True
